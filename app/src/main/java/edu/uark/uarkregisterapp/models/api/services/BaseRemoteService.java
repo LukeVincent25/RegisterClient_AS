@@ -268,5 +268,6 @@ abstract class BaseRemoteService {
 	private static final String JSON_PAYLOAD_TYPE = "application/json";
 	private static final String CONTENT_TYPE_REQUEST_PROPERTY = "Content-Type";
 	private static final String BASE_URL = "https://sprintone.herokuapp.com/";
+
 //	private static final String BASE_URL = "https://uarkregservnodejsapi.herokuapp.com/api/";
 }
